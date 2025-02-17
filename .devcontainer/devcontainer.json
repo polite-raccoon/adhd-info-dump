@@ -1,0 +1,16 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/base:1-ubuntu24.04",
+	"features": {
+		"ghcr.io/devcontainers-extra/features/mkdocs:2": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"samuelcolvin.jinjahtml",
+				"wholroyd.jinja",
+				"GitHub.copilot",
+				"ms-python.python"
+			]
+		}
+	}
+}
