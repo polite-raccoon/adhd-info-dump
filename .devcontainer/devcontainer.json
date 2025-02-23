@@ -1,7 +1,12 @@
 {
 	"image": "mcr.microsoft.com/devcontainers/base:1-ubuntu24.04",
 	"features": {
-		"ghcr.io/devcontainers-extra/features/mkdocs:2": {}
+		"ghcr.io/devcontainers-extra/features/mkdocs:2": {
+			"plugins":
+			[
+				"mkdocs-material mkdocs-autorefs mkdocs-git-revision-date-localized-plugin mkdocs-enumerate-headings-plugin"
+			]
+		}
 	},
 	"customizations": {
 		"vscode": {
