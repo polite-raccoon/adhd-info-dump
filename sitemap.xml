@@ -2,12 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://polite-raccoon.github.io/adhd-info-dump/</loc>
-         <lastmod>2025-02-17</lastmod>
+         <lastmod>2025-02-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://polite-raccoon.github.io/adhd-info-dump/everything-everywhere-all-at-once/</loc>
-         <lastmod>2025-02-17</lastmod>
+         <loc>https://polite-raccoon.github.io/adhd-info-dump/adhs_spektrum/</loc>
+         <lastmod>2025-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://polite-raccoon.github.io/adhd-info-dump/adhs_symptome/</loc>
+         <lastmod>2025-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://polite-raccoon.github.io/adhd-info-dump/adhs_was_ist_das/</loc>
+         <lastmod>2025-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://polite-raccoon.github.io/adhd-info-dump/behandlung_medikamente/</loc>
+         <lastmod>2025-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://polite-raccoon.github.io/adhd-info-dump/behandlung_therapieans%C3%A4tze/</loc>
+         <lastmod>2025-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://polite-raccoon.github.io/adhd-info-dump/diagnose_ablauf/</loc>
+         <lastmod>2025-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://polite-raccoon.github.io/adhd-info-dump/diagnose_anlaufstellen/</loc>
+         <lastmod>2025-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://polite-raccoon.github.io/adhd-info-dump/diagnose_bestandteile/</loc>
+         <lastmod>2025-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://polite-raccoon.github.io/adhd-info-dump/diagnose_danach/</loc>
+         <lastmod>2025-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://polite-raccoon.github.io/adhd-info-dump/diagnose_rechtliches/</loc>
+         <lastmod>2025-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://polite-raccoon.github.io/adhd-info-dump/diagnose_sorgen/</loc>
+         <lastmod>2025-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://polite-raccoon.github.io/adhd-info-dump/diagnose_testverfahren/</loc>
+         <lastmod>2025-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://polite-raccoon.github.io/adhd-info-dump/sonstiges_quellen/</loc>
+         <lastmod>2025-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://polite-raccoon.github.io/adhd-info-dump/sonstiges_tips/</loc>
+         <lastmod>2025-02-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
