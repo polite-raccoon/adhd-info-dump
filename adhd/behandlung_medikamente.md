@@ -51,15 +51,15 @@ Nikotin dockt auch an Rezeptoren an. Die Welt wäre wahrscheinlich eine andere, 
     Bei Medikinet retard wirkt das Präparat kurz nach der Einnahme am stärksten. Wenn es nach ca. zwei bis drei Stunden seinen Wirkungshöhepunkt erreicht hat, lässt der Effekt etwas nach. Etwa eine Stunde später steigt der Pegel noch einmal etwas an, um dann langsam gegen Null auszulaufen.
 *Quelle: https://www.adhs-selbsthilfe-muenchen.de/themen/wirkungsweise-medis/*
 
-### Kinecten
+### Kinecteen
 
 **Wirkstoff:** Methylphenidat
 **Freisetzung:** Modifizierte Freisetzung (spezielle Technologie, die eine gleichmäßigere und längere Freisetzung über den Tag ermöglicht)
 **Wirkungsdauer:** Ca. 8-12 Stunden
 **Verabreichung:** Einmal täglich
-**Besonderheiten:** Kinecten nutzt eine spezielle Freisetzungstechnologie, die eine längere und gleichmäßigere Wirkungsdauer ermöglicht. Dies kann dazu beitragen, Schwankungen in der Wirkung zu minimieren und eine stabilere Symptomkontrolle über den Tag hinweg zu gewährleisten.
+**Besonderheiten:** Kinecteen nutzt eine spezielle Freisetzungstechnologie, die eine längere und gleichmäßigere Wirkungsdauer ermöglicht. Dies kann dazu beitragen, Schwankungen in der Wirkung zu minimieren und eine stabilere Symptomkontrolle über den Tag hinweg zu gewährleisten.
 
-Kinecten ist ein neues Methylphenidat-Präparat, das in Deutschland seit Ende Dezember 2022 für Erwachsene verfügbar ist.
+Kinecteen ist ein neues Methylphenidat-Präparat, das in Deutschland seit Ende Dezember 2022 für Erwachsene verfügbar ist.
 
 ## Lisdexamfetamin
 
@@ -78,14 +78,11 @@ Lisdexamfetamin (LDX) ist eine synthetisch hergestellte Prodrug aus der Stoffgru
 
 Anders als Medikinet kann Elvanse unabhängig von der Nahrungsaufnahme eingenommen werden. Nach fettreicher Mahlzeit kann der Spitzenplasmaspiegel um etwa eine Stunde verzögert sein.
 
-#### Dosierung Und Schlafstörungen
 
-Elvanse ist so lange im Körper wirksam, bis es verstoffwechselt ist. Der Mechanismus ist also ähnlich wie bei Alkohol.
-Der Nachteil ist, dass es in höheren Dosierungen öfter zu Schlafstörungen kommt. Das liegt daran, dass durch die Aufnahme im Blut, die Höhe der Dosis über die Dauer der Wirksamkeit entscheidet. Je höher die Dosis, desto länger die Wirkung.
 
-# Warum Gibt Es Erst Medikinet/Kinecten Und Dann Elvanse?
+# Warum Gibt Es Erst Medikinet/Kinecteen Und Dann Elvanse?
 
-Typischerweise scheint man in Deutschland erst mal Medikinet oder Kinecten verschrieben zu bekommen. Und wenn man dann irgendwann beim Doc sagt, dass das ja schon hilft, aber irgendwie ist nicht so richtig konstant und irgendwie müsste das doch besser gehen. Dann wird einem (typischerweise) ein Amphetamin wie Elvanse verschrieben. Und plötzlich kann man nicht nur durch den Nebel im Hirn durchschauen, nein, er ist einfach weg. Und man fragt sich, warum nicht gleich?
+Typischerweise scheint man in Deutschland erst mal Medikinet oder Kinecteen verschrieben zu bekommen. Und wenn man dann irgendwann beim Doc sagt, dass das ja schon hilft, aber irgendwie ist nicht so richtig konstant und irgendwie müsste das doch besser gehen. Dann wird einem (typischerweise) ein Amphetamin wie Elvanse verschrieben. Und plötzlich kann man nicht nur durch den Nebel im Hirn durchschauen, nein, er ist einfach weg. Und man fragt sich, warum nicht gleich?
 Meine Vermutung? Geringeres Missbrauchspotential. Wenn es schon so schwer ist medizinisches Gras zu verkaufen, dann muss man nicht direkt jemandem Speed in die Hand drücken weil die Person von Konzentrationsproblemen berichtet. Ich überspitze ein wenig, aber im Grunde finde ich es ganz ok, dass nicht direkt die Keule rausgeholt wird, sondern erst Mal geschaut wird, was es denn noch für softere Medikamente gibt. Und für viele reichen Ritalin oder Medikinet bestimmt auch. Für andere halt nicht.
 
 # Alternative Mikronährstoffe
@@ -162,6 +159,11 @@ Bei einem länger wirkenden Medikament auf gar keinen Fall zu spät nehmen. Je f
 Auch wenn ich persönlich Elvanse nicht "merke", so merke ich schon, wenn ich das Medikament zu spät genommen habe. Ich bin auch ohne Medikamente eine Nachteule, aber auch ich habe irgendwann feststellen müssen, dass ins Bett gehen nicht so richtig was bringt, wenn ich die Kapsel erst nach 12 genommen habe.
 
 Eine Freundin stellt sich gerne einen Wecker eine halbe Stunde bevor sie aufstehen muss, nimmt die Kapsel, und legt sich wieder hin. Nach 20 30 Minuten wacht sie dann ganz "natürlich" und entspannt auf. Geht natürlich nur mit so etwas wie Elvanse, was nicht während/nach dem Essen genommen werden muss.
+
+## Dosierung
+
+Elvanse ist beispielsweise so lange im Körper wirksam, bis es verstoffwechselt ist. Der Mechanismus ist also ähnlich wie bei Alkohol.
+Der Nachteil ist, dass es in höheren Dosierungen öfter zu Schlafstörungen kommt. Das liegt daran, dass durch die Aufnahme im Blut, die Höhe der Dosis über die Dauer der Wirksamkeit entscheidet. Je höher die Dosis, desto länger die Wirkung.
 
 ## Hormone
 

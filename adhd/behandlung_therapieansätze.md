@@ -10,7 +10,7 @@ Also hier einmal ein paar Therapieansaätze in Stichpunkten.
 
 - **Medikamentöse Therapie:**
     - **Stimulanzien:**
-        - Methylphenidat (z.B. Medikinet, Ritalin, Kinecten) und Amphetamine (z.B. Elvanse) und Dexmethylphenidat (in den USA).
+        - Methylphenidat (z.B. Medikinet, Ritalin, Kinecteen) und Amphetamine (z.B. Elvanse) und Dexmethylphenidat (in den USA).
     - **Nicht-Stimulanzien:**
         - Atomoxetin, Guanfacin (Intuniv).
 - **Psychotherapie:**
